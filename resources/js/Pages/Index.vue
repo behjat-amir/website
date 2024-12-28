@@ -9,6 +9,9 @@ const skills = {
         { name: 'Nuxt.js', level: 20, icon: '🚀' },
         { name: 'Vuetify', level: 90, icon: '🎨' },
     ],
+    mobile: [
+        { name: 'Flutter', level: 100, icon: '📱' },
+    ],
     backend: [
         { name: 'Laravel', level: 70, icon: '🐘' },
         { name: 'Spring Boot', level: 50, icon: '💚' },
@@ -22,9 +25,6 @@ const skills = {
         { name: 'Linux', level: 95, icon: '🐧' },
         { name: 'Nginx', level: 85, icon: '🌐' },
         { name: 'Git', level: 90, icon: '📚' },
-    ],
-    mobile: [
-        { name: 'Flutter', level: 100, icon: '📱' },
     ],
     ai: [
         { name: 'TensorFlow', level: 30, icon: '🧠' },
