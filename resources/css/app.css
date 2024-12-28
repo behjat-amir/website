@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: yekanbakh;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/public/assets/fonts/regular.ttf);
+}
+@font-face {
+    font-family: yekanbakhextrabold;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/public/assets/fonts/YEKANBAKHFANUM-EXTRABOLD.ttf);
+}
+@font-face {
+    font-family: yekanbakhextrablack;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/public/assets/fonts/YEKANBAKHFANUM-EXTRABLACK.ttf);
+}
+@font-face {
+    font-family: yekanbakhbold;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/public/assets/fonts/YEKANBAKHFANUM-BOLD.ttf);
+}
+@font-face {
+    font-family: yekanbakhblack;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/public/assets/fonts/YEKANBAKHFANUM-BLACK.ttf);
+}
+@font-face {
+    font-family: yekanbakhlight;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/public/assets/fonts/YEKANBAKHFANUM-LIGHT.ttf);
+}
+@font-face {
+    font-family: yekanbakhsemibold;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/public/assets/fonts/YEKANBAKHFANUM-SEMIBOLD.ttf);
+}
+@font-face {
+    font-family: yekanbakhthin;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/public/assets/fonts/YEKANBAKHFANUM-THIN.ttf);
+}
