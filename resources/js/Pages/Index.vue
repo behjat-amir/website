@@ -41,7 +41,7 @@ const personalInfo = {
     title: 'Full Stack Developer',
     email: 'amirw.noroozi@gmail.com',
     location: 'رفسنجان، ایران',
-    about: 'توسعه‌دهنده Full Stack با تخصص در Flutter ، PHP (Laravel)، Java و تکنولوژی‌های مدرن وب. علاقه‌مند به هوش مصنوعی و یادگیری ماشین. در حال حاضر مشغول کار بر روی پروژه‌  شخصی ( بگذر ) هستم.',
+    about: 'توسعه‌دهنده Full Stack با تخصص در Flutter ، PHP (Laravel)، Java و تکنولوژی‌های مدرن وب. در حال حاضر مشغول کار بر روی پروژه‌  شخصی ( بگذر ) هستم.',
     github: 'https://github.com/behjat-amir',
     telegram: 'noroozi_amir',
     instagram: 'amir.norowzi',
