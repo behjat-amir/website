@@ -43,10 +43,10 @@ const personalInfo = {
     location: 'رفسنجان، ایران',
     about: 'توسعه‌دهنده Full Stack با تخصص در Flutter ، PHP (Laravel)، Java و تکنولوژی‌های مدرن وب. علاقه‌مند به هوش مصنوعی و یادگیری ماشین. در حال حاضر مشغول کار بر روی پروژه‌  شخصی ( بگذر ) هستم.',
     github: 'https://github.com/behjat-amir',
-    telegram: '@noroozi_amir',
-    instagram: '@amir.norowzi',
+    telegram: 'noroozi_amir',
+    instagram: 'amir.norowzi',
     phone: '+98 935 072 6665',
-    github: 'https://github.com/amir.norowzi',
+    github: 'https://github.com/behjat-amir',
     achievements: ['Arctic Code Vault Contributor'],
     projects: [
         {
@@ -199,8 +199,8 @@ onMounted(() => {
                                         </svg>
                                     </div>
                                     <div class="flex flex-col">
-                                        <span class="contact-label">گیتهاب</span>
-                                        <span class="contact-value">github.com/devtomy</span>
+                                        <span class="contact-label">گیت هاب</span>
+                                        <span class="contact-value">github.com/behjat-amir</span>
                                     </div>
                                 </a>
 
