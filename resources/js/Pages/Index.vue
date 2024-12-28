@@ -10,7 +10,7 @@ const skills = {
         { name: 'Vuetify', level: 90, icon: '🎨' },
     ],
     backend: [
-        { name: 'Laravel', level: 90, icon: '🐘' },
+        { name: 'Laravel', level: 70, icon: '🐘' },
         { name: 'Spring Boot', level: 50, icon: '💚' },
     ],
     database: [
@@ -24,7 +24,7 @@ const skills = {
         { name: 'Git', level: 90, icon: '📚' },
     ],
     mobile: [
-        { name: 'Flutter', level: 40, icon: '📱' },
+        { name: 'Flutter', level: 100, icon: '📱' },
     ],
     ai: [
         { name: 'TensorFlow', level: 30, icon: '🧠' },
