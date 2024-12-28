@@ -49,21 +49,21 @@ const personalInfo = {
     github: 'https://github.com/behjat-amir',
     achievements: ['Arctic Code Vault Contributor'],
     projects: [
-        // {
-        //     name: 'BlueStone',
-        //     description: 'کتابخانه PHP برای سات آسان ربات‌های تلگرام',
-        //     stars: 35
-        // },
-        // {
-        //     name: 'xMusic',
-        //     description: 'API دانلود موسیقی فارسی',
-        //     stars: 100
-        // },
-        // {
-        //     name: 'BDR',
-        //     description: 'کتابخانه رمزنگاری و هش‌کننده رشته‌های PHP',
-        //     stars: 10
-        // },
+        {
+            name: 'BlueStone',
+            description: 'کتابخانه PHP برای سات آسان ربات‌های تلگرام',
+            stars: 35
+        },
+        {
+            name: 'xMusic',
+            description: 'API دانلود موسیقی فارسی',
+            stars: 100
+        },
+        {
+            name: 'BDR',
+            description: 'کتابخانه رمزنگاری و هش‌کننده رشته‌های PHP',
+            stars: 10
+        },
         {
             name: 'Begzar',
             description: 'نرم افزار تحریم شکن کراس پلتفرم',
